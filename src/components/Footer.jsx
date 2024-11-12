@@ -13,7 +13,7 @@ export default function Footer() {
                 <i class="fa fa-telegram"></i>
             </div>
             <div class="name">
-                powered by  <u>MUKESH</u>
+                powered by  <u>SIBI</u>
             </div>
         </center>
     </footer>
